@@ -1,2 +1,2 @@
 # J.A.R.V.I.S
-Virtual Asssistant
+Just A Rather Very Intelligent System
