@@ -32,7 +32,7 @@ pyinstaller --onefile --windowed --icon=UI-Icon.ico run.py
 ```bash
 pyinstaller --onefile --windowed --icon=UI-Icon.ico run.py
 ```
-1. Open JARVIS.exe
+1. Open JARVIS.exe (created in J.A.R.V.I.S-main/dist)
 2. Press the 'Speak' button and say whatever you want.
 3. Wait for J.A.R.V.I.S. to reply.
 
