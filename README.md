@@ -2,6 +2,10 @@
 
 A3 Submission
 
+# IMPORTANT
+
+Check "A3: Git Repository" for the API keys! The project will not work without altering the .env with the keys I have provided.
+
 ## Installation
 
 0. Install Python.
