@@ -1,12 +1,6 @@
 README for J.A.R.V.I.S.
 
 
------ RUNNING J.A.R.V.I.S. -----
-1. Open JARVIS.exe
-2. Press the 'Speak' button and say whatever you want.
-3. Wait for J.A.R.V.I.S. to reply.
-
-
 ----- RUNNING THE CODE -----
 0. Install Python.
 1. Create a virtual environment: 'py -m venv venv'
@@ -15,6 +9,12 @@ README for J.A.R.V.I.S.
 4. You can now run the program using 'py run.py'
 OR
 5. You can create a .exe file by running 'pyinstaller --onefile --windowed --icon=UI-Icon.ico run.py'
+
+
+----- RUNNING J.A.R.V.I.S. -----
+1. Open JARVIS.exe
+2. Press the 'Speak' button and say whatever you want.
+3. Wait for J.A.R.V.I.S. to reply.
 
 
 ----- CODE EXPLANATION -----
