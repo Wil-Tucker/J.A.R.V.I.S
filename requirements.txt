@@ -1,0 +1,6 @@
+speechrecognition
+openai
+elevenlabs
+pyaudio
+pyinstaller
+python-dotenv
