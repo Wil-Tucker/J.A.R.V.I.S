@@ -22,7 +22,7 @@ pip install -r requirements.txt
 py run.py
 ```
 OR
-5. You can create a .exe file by running 
+5. You can create a .exe file by running (created in J.A.R.V.I.S-main/dist)
 ```bash
 pyinstaller --onefile --windowed --icon=UI-Icon.ico run.py
 ```
